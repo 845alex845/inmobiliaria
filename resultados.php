@@ -54,7 +54,7 @@
         </div>
         <hr>
         <div class="row">
-            [<a href="busqueda.html"> Buscar otra vivienda</a>]
+            [<a href="index.html"> Buscar otra vivienda</a>]
         </div>
     </div>
 </body>
